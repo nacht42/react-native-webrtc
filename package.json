@@ -18,7 +18,7 @@
   ],
   "dependencies": {
     "base64-js": "^1.1.2",
-    "event-target-shim": "^3.0.2",
+    "event-target-shim": "2.0.0",
     "prop-types": "^15.5.10",
     "uuid": "^3.3.2"
   },
